@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284665673458",
+    "project_id": "jewelry-land",
+    "storage_bucket": "jewelry-land.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284665673458:android:88b5105e9bb2afd3e6c26b",
+        "android_client_info": {
+          "package_name": "com.example.jewelry_land"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284665673458-glvg0cq09fokrtcbvup47ov1nlge9pm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jewelry_land",
+            "certificate_hash": "18e0d8db9aedca36295cf1d0f24d09a0ef466aa6"
+          }
+        },
+        {
+          "client_id": "284665673458-hoavkdeccdak926ie7etcdun497tno43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsP-qvb2vwadmqKxmiNmjhFVMhj63RaC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284665673458-hoavkdeccdak926ie7etcdun497tno43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

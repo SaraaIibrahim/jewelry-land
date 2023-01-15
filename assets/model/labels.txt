@@ -1,0 +1,3 @@
+0 necklace
+1 earring
+2 ring
